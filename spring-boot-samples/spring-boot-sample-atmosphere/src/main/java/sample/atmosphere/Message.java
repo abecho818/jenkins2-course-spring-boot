@@ -22,7 +22,7 @@ public class Message {
 
 	private String message;
 	private String helloNewChange;
-	private Int becauseICan;
+	private String becauseICan;
 	private String author;
 
 	private long time = new Date().getTime();
