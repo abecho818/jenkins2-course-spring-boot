@@ -31,7 +31,7 @@ import org.slf4j.LoggerFactory;
 
 @ManagedService(path = "/chat")
 public class ChatService {
-	private string Awherewegoagain;
+	//private string Awherewegoagain;
 	private final Logger logger = LoggerFactory.getLogger(ChatService.class);
 
 	@Ready
