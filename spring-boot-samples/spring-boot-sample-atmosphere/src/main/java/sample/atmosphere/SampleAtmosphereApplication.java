@@ -9,7 +9,11 @@
  *
  * Unless required by applicable law or agreed to in writing, software
  * distributed under theasdcdscdsacsdcsd License is distributed on an "AS IS" BASIS,
+<<<<<<< HEAD
  * WITHOUT WARRANTIES OR CONDITIONSasasdsadsdasdasdasadsdasda OF ANY KIND, either express or implied.
+=======
+ * WITHOUT WARRANTIES OR CONDITIONScsdcsdcsdcsdcscd OF ANY KIND, either express or implied.
+>>>>>>> 35b9cbff642dba9f1694495b7319f5e381f29a6e
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
